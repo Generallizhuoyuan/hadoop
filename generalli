@@ -1,0 +1,4 @@
+print（i）
+print（id（i））
+i='b'
+print(i)
